@@ -5,7 +5,7 @@ The documentation of Signology application for Bangkit Capstone Project 2023
 
 
 # About
-Signology is your very own SIBI translator that bridge communication barriers for individuals using sign language.
+Signology is your very own SIBI translator that bridge communication barriers for individuals who uses sign language.
 
 # The Team
 | Member | Student ID | Role | Contact |
