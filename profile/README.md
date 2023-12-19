@@ -1,4 +1,4 @@
-# signology-documentation
+# Signology documentation
 The documentation of Signology application for Bangkit Capstone Project 2023
 
 ![image](https://github.com/Signology/signology-capstone-documentation/assets/93120790/9a9a8ff9-52fc-4dd4-8ca6-7db2262afafb)
