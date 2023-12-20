@@ -21,6 +21,6 @@ Signology is your very own SIBI translator that bridge communication barriers fo
 | Learning Paths | Link |
 |-----------------|-----------------|
 | Mobile Development | Github |
-| Machine Learning & <br> Cloud Computing| Github |
+| Machine Learning & <br> Cloud Computing API| Github |
 
 # Architecture
