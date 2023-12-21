@@ -10,18 +10,18 @@ Signology is your very own SIBI translator that bridge communication barriers fo
 # The Team
 | Member | Student ID | Role | Contact |
 |-----------------|-----------------|-----------------|-----------------|
-| Mia Karisma Haq | M299BSX0303 | Machine Learning | LinkedIn or Github |
-| Diani Eka Putri | M547BKX4463 | Machine Learning | LinkedIn or Github |
-| Fikri Taufiqurrahman | M547BKY4432 | Machine Learning | LinkedIn or Github |
-| Ihsan Ghozi Zulfikar | C299BSY4141 | Cloud Computing | LinkedIn or Github |
-| Widi Faiz Akhmad | C012BSY3902 | Cloud Computing | LinkedIn or Github |
-| Ade Mulyana | A299BSY2825 | Mobile Development | LinkedIn or Github |
+| Mia Karisma Haq | M299BSX0303 | Machine Learning | [LinkedIn](https://www.linkedin.com/in/mia-karisma-haq-175602230/) or [Github](https://github.com/miakarisma) |
+| Diani Eka Putri | M547BKX4463 | Machine Learning | [LinkedIn](https://www.linkedin.com/in/dianiekaputri28/) or [Github](https://github.com/diiaanniiep) |
+| Fikri Taufiqurrahman | M547BKY4432 | Machine Learning | [LinkedIn](https://www.linkedin.com/in/fikri-taufiqurrahman-6097bb25b/) or [Github](https://github.com/fikri-taufiqurrahman) |
+| Ihsan Ghozi Zulfikar | C299BSY4141 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/ihsan-ghozi-zulfikar-86a721280/) or [Github](https://github.com/ihsanGhoziZulfikar) |
+| Widi Faiz Akhmad | C012BSY3902 | Cloud Computing | [LinkedIn](https://www.linkedin.com/in/widi-faiz-akhmad/) or [Github](https://github.com/widifaizakhmad) |
+| Ade Mulyana | A299BSY2825 | Mobile Development | [LinkedIn](https://www.linkedin.com/in/ademulyn/) or [Github](https://github.com/adem299) |
 
 # Repositories
 | Learning Paths | Link |
 |-----------------|-----------------|
 | Mobile Development | Github |
-| Machine Learning & <br> Cloud Computing | Github |
+| Machine Learning & <br> Cloud Computing | [Github](https://github.com/Signology/signology-api) |
 
 # Architecture
 ![Authentication Request (1)](https://github.com/Signology/.github/assets/93120790/894be652-7ea4-4470-b58a-924dfe5749f2)
