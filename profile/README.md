@@ -23,6 +23,9 @@ Signology is your very own SIBI translator that bridge communication barriers fo
 | Mobile Development | Github |
 | Machine Learning & <br> Cloud Computing | [Github](https://github.com/Signology/signology-api) |
 
+# API Documentation
+https://signology-api-3su245brda-et.a.run.app/api/docs/
+
 # Architecture
 ![Authentication Request (1)](https://github.com/Signology/.github/assets/93120790/894be652-7ea4-4470-b58a-924dfe5749f2)
 
