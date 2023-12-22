@@ -30,7 +30,7 @@ Signology is your very own SIBI translator that bridge communication barriers fo
 # User Manual
 
 ### Install Signology Application
-First, install the app on your Android phone by clicking [here](link drive) to download the APK. Then, install it on your phone.
+First, install the app on your Android phone by clicking [here](https://drive.google.com/file/d/1Fl_nU4isnFkMo-MsKr_iaxkwCTkRh3T-/view?usp=sharing) to download the APK. Then, install it on your phone.
 
 ### Register
 Open the app and click 'Register.'
