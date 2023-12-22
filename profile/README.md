@@ -62,3 +62,10 @@ Click 'Register.'
 - Click 'History Translate.'
 - This page displays your previously predicted sentences.
 - Click on a sentence to see the corresponding sign language gestures.
+
+### Purchase Premium
+- You must be logged in to buy premium.
+- Tap the profile icon in the navbar.
+- Click 'Edit Profile.'
+- Select 'Upgrade to Premium.'
+- Choose the premium type that suits your preferences.
